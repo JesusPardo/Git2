@@ -1,0 +1,3 @@
+mv anterior_nombre nuevo_nombre
+git add nuevo_nombre
+git rm anterior_nombre
