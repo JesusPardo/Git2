@@ -1,2 +1,0 @@
-agregamos linea remota para prueba fetch
-No nos sale
